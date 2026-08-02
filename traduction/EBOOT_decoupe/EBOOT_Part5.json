@@ -5,7 +5,7 @@
         "data_size": 64,
         "slot_size": 64,
         "texte_orig": "Jack[SP]Frost[SP]can[SP]use[SP]Atomic[SP]Bufula",
-        "texte_fr": ""
+        "texte_fr": "Jack Frost peut utiliser Bufula Atomic"
     },
     {
         "id": 4001,
@@ -13,7 +13,7 @@
         "data_size": 64,
         "slot_size": 64,
         "texte_orig": "Jack[SP]Frost[SP]can[SP]use[SP]Atomic[SP]Bufula",
-        "texte_fr": ""
+        "texte_fr": "Jack Frost peut utiliser Bufula Atomic"
     },
     {
         "id": 4002,
@@ -21,7 +21,7 @@
         "data_size": 70,
         "slot_size": 70,
         "texte_orig": "Jack[SP]Frost[SP]can[SP]use[SP]an[SP]amazing[SP]skill",
-        "texte_fr": ""
+        "texte_fr": "Jack Frost peut utiliser une incroyable compétence"
     },
     {
         "id": 4003,
@@ -29,7 +29,7 @@
         "data_size": 64,
         "slot_size": 64,
         "texte_orig": "Pyro[SP]Jack[SP]can[SP]use[SP]Dynamic[SP]Agilao",
-        "texte_fr": ""
+        "texte_fr": "Jack-o'-Lantern peut utiliser Agialo Dynamic"
     },
     {
         "id": 4004,
@@ -37,7 +37,7 @@
         "data_size": 64,
         "slot_size": 64,
         "texte_orig": "Pyro[SP]Jack[SP]can[SP]use[SP]Dynamic[SP]Agilao",
-        "texte_fr": ""
+        "texte_fr": "Jack-o'-Lantern peut utiliser Agialo Dynamic"
     },
     {
         "id": 4005,
@@ -45,7 +45,7 @@
         "data_size": 64,
         "slot_size": 64,
         "texte_orig": "Pyro[SP]Jack[SP]can[SP]use[SP]Dynamic[SP]Agilao",
-        "texte_fr": ""
+        "texte_fr": "Jack-o'-Lantern peut utiliser Agialo Dynamic"
     },
     {
         "id": 4006,
@@ -53,7 +53,7 @@
         "data_size": 68,
         "slot_size": 68,
         "texte_orig": "Pyro[SP]Jack[SP]can[SP]use[SP]an[SP]amazing[SP]skill",
-        "texte_fr": ""
+        "texte_fr": "Jack-o'-Lantern peut utiliser une incroyable compétence"
     },
     {
         "id": 4007,
@@ -237,7 +237,7 @@
         "data_size": 52,
         "slot_size": 52,
         "texte_orig": "Use[SP]to[SP]decrease[SP]load[SP]times",
-        "texte_fr": ""
+        "texte_fr": "Utiliser pour réduire les temps de chargement"
     },
     {
         "id": 4030,
@@ -245,7 +245,7 @@
         "data_size": 48,
         "slot_size": 48,
         "texte_orig": "Change[SP]combat[SP]difficulty",
-        "texte_fr": ""
+        "texte_fr": "Change la difficulté du combat"
     },
     {
         "id": 4031,
@@ -253,7 +253,7 @@
         "data_size": 62,
         "slot_size": 62,
         "texte_orig": "Adjust[SP]movie[SP]display[SP]resolution",
-        "texte_fr": ""
+        "texte_fr": "Ajuster la résolution d'affichage du film"
     },
     {
         "id": 4032,
@@ -261,7 +261,7 @@
         "data_size": 64,
         "slot_size": 64,
         "texte_orig": "Change[SP]camera[SP]rotation[SP]direction",
-        "texte_fr": ""
+        "texte_fr": "Changer la direction de la rotation de la caméra"
     },
     {
         "id": 4033,
